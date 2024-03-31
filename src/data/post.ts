@@ -9,12 +9,12 @@ export const posts =[
         id: 2,
         title:"Second Content",
         content:"Second content block",
-        username: 'jonedone1'
+        username: 'jonedone2'
     },
     {
         id: 3,
         title:"Third Content",
         content:"Third content block",
-        username: 'jonedone1'
+        username: 'jonedone3'
     }
 ]
